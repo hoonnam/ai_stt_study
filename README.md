@@ -65,14 +65,9 @@ The program consists of five main functions and a `main` function:
 ## Running the Program
 To start the real-time transcription:
 ```bash
-python main.py
+python stt.py
 ```
 Press `Ctrl+C` to exit the program.
 
-## System Requirements
-- **CPU**: Minimum quad-core processor (Recommended: Intel i5/i7, AMD Ryzen 5/7)
-- **GPU (Optional but recommended)**: NVIDIA GPU with CUDA support for better performance
 
-## License
-This project is open-source and available under the MIT License.
 
